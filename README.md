@@ -1,7 +1,7 @@
 # UTS Data Mining: Prediksi Kualitas Anggur
 
-Nama : (isi namamu)
-NIM  : (isi NIM-mu)
+Nama : Shabrina Ayu Wulandari
+NIM  : 2404010017
 Prodi: D3 Staterkom, UNNES
 
 Model klasifikasi untuk memprediksi kualitas anggur (quality) dari
